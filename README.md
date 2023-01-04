@@ -10,7 +10,7 @@ This repository contains our final Contextual chatbot "chatbot_app.py" or "chatb
 3. Open "requirements.txt" and make sure that all modules are installed and up to date.
 4. Run either "chatbot_app.py" or "chatbot" to interact with the chatbot.
 
-This repository also includes 
+This repository also contains 
 - Poster from poster-session showing the model
 - Images of cherry-picked conversations created with the chatbot
 
