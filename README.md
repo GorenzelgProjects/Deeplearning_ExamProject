@@ -1,7 +1,7 @@
 # Deeplearning_ExamProject
 Code repos for exam project deeplearning 02456.
 
-
+![image](https://user-images.githubusercontent.com/52610662/210592639-471caf9b-54a1-4722-90ab-ca4cf5b14a89.png)
 
 This repository contains our final Contextual chatbot "chatbot_app.py" or "chatbot" as a Jupyter Notebook. All necesarry custom files are included, except from the folder "bert_Finetuned_Squad_Local", which you will get by following the setup below:
 
