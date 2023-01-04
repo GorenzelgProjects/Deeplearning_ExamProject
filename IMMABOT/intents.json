@@ -1,0 +1,136 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "about_me",
+      "patterns": [
+        "who are you?",
+        "what is your name?",
+        "what can you help me with?",
+        "what is your purpose?"
+      ],
+      "responses": [
+        "I'm IMMABOT - short for Intelligent Multi-Model Artificial BOT, I'm here to serve you, by giving you what information I can retriew about Amazon products.'",
+        "My name is IMMABOT - short for Intelligent Multi-Model Artificial BOT, my purpose is to help you, by retrieving information about Amazon products."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "lowest",
+      "patterns": [
+        "What product has the lowest",
+        "Which item has the lowest",
+        "What is your cheapest product?",
+        "Which product cost the least?",
+        "Where can I save the least?"
+      ],
+      "responses": [
+        "lowest"
+      ]
+    },
+    {
+      "tag": "highest",
+      "patterns": [
+        "What product has the highest",
+        "Which item has the highest",
+        "What is your most expensive product?",
+        "Which product cost the most?",
+        "Where can I save the most?",
+        "What is your best"
+      ],
+      "responses": [
+        "highest"      
+      ]
+    },
+    {
+      "tag": "lower than",
+      "patterns": [
+        "how many products can i get for",
+        "which products can i get for",
+        "which products can i affort?"
+      ],
+      "responses": [
+        "lower than"      
+      ]
+    },
+    {
+      "tag": "higher than",
+      "patterns": [
+        "which products cost more than",
+        "which products can't I get for",
+        "which products can't' i affort?"
+      ],
+      "responses": [
+        "higher than"       
+      ]
+    },
+    {
+      "tag": "contextual",
+      "patterns": [
+        "How many do you have?",
+        "What is the price for it?",
+        "What is the tittle?",
+        "What is the discount?",
+        "How much do i save?",
+        "How much do i have to pay?"
+      ],
+      "responses": [
+        "contextual"
+      ]
+    }
+  ]
+}
