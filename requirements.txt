@@ -1,0 +1,10 @@
+sentence_transformers
+transformers
+numpy
+nltk
+json
+torch
+pandas
+tkinter
+textwrap
+openai
