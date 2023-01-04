@@ -7,3 +7,7 @@ This repository contains our final Contextual chatbot "chatbot_app.py" or "chatb
 2. Replace the folder "bert_Finetuned_Squad_Local" with the new one, in the same repository as the chatbot.
 3. Open "requirements.txt" and make sure that all modules are installed and up to date.
 4. Run either "chatbot_app.py" or "chatbot" to interact with the chatbot.
+
+This repository also includes 
+- Images of cherry-picked conversations created with the chatbot
+- Poster from poster-session showing the model
