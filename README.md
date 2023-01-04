@@ -11,3 +11,5 @@ This repository contains our final Contextual chatbot "chatbot_app.py" or "chatb
 This repository also includes 
 - Images of cherry-picked conversations created with the chatbot
 - Poster from poster-session showing the model
+
+![example 5](https://user-images.githubusercontent.com/52610662/210592070-6eb2e6a5-78bf-4221-ba6c-265f6b2f717b.png)
