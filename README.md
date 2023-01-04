@@ -1,5 +1,5 @@
 # Deeplearning_ExamProject
-Code repos for exam project deeplearning 02456.
+Code repos for exam project deep learning 02456 (Group 93).
 
 ![image](https://user-images.githubusercontent.com/52610662/210592639-471caf9b-54a1-4722-90ab-ca4cf5b14a89.png)
 
